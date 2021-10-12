@@ -1,0 +1,26 @@
+{
+  "name": "projeto-final-modulo-ci-cd-fullcycle",
+  "version": "1.0.0",
+  "description": "CI/CD com Git Actions e Docker",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosfdev/projeto-final-modulo-ci-cd-fullcycle.git"
+  },
+  "author": "Thiago Soares Figueiredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagosfdev/projeto-final-modulo-ci-cd-fullcycle/issues"
+  },
+  "homepage": "https://github.com/thiagosfdev/projeto-final-modulo-ci-cd-fullcycle#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
