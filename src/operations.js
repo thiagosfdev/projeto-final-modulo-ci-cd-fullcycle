@@ -4,9 +4,7 @@ function sum(a, b) {
 
   const n2 = b
 
-  const result = n1 + n2
-
-  return result
+  return n1 + n2
 
 }
 
@@ -16,9 +14,7 @@ function sub(a, b) {
 
   const n2 = b
 
-  const result = n1 - n2
-
-  return result
+  return n1 - n2
 
 }
 
@@ -28,9 +24,7 @@ function mult(a, b) {
 
   const n2 = b
 
-  const result = n1 * n2
-
-  return result
+  return n1 * n2
 
 }
 
@@ -40,9 +34,7 @@ function div(a, b) {
 
   const n2 = b
 
-  const result = n1 / n2
-
-  return result
+  return n1 / n2
 
 }
 
@@ -52,9 +44,7 @@ function mod(a, b) {
 
   const n2 = b
 
-  const result = n1 % n2
-
-  return result
+  return n1 % n2
 
 }
 
